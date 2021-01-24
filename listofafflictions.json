@@ -1,0 +1,6 @@
+{
+  "covid": ["Fever or chills", "Cough", "Shortness of breath or difficulty breathing", "Fatigue", "Muscle or body aches", "Headache", "New loss of taste or smell", "Sore throat"],
+  "flu": ["fever or feeling feverish/chills", "cough", "sore throat", "runny or stuffy nose", "muscle or body aches"],
+  "cold": ["Sneezing", "Stuffy nose or Runny nose", "Sore throat", "Mucus dripping down your throat", "Watery eyes"],
+  "Strep Throat": ["Sore throat that can start very quickly", "Pain when swallowing", "fever"]
+}
